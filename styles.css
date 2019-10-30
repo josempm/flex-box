@@ -1,0 +1,117 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+
+
+.principal{
+	width: 900px;
+	height: 600px;
+	margin: 0 auto;
+}
+
+.menu{
+	width: 900px;
+	height: 150px;
+	background-color: purple;
+	margin: 0 auto;
+	border: 1px solid black;
+	display: flex;
+	align-items:  center;
+	justify-content: space-between;
+}
+.hijo1{
+	width: 250px;
+	height: 50px;
+	background-color: gray;
+	border: 1px solid black;
+}
+.hijo2{
+	border: 1px solid black;
+	width: 250px;
+	height: 50px;
+	background-color: gray;
+	
+}
+.segundo{
+	
+	display: flex;
+	justify-content: flex-start;
+}
+.azul{
+	width: 700px;
+	background-color: blue;
+	height: 350px;
+	margin: 0 auto;
+	display: flex;
+	justify-content: space-around;
+	align-items: flex-end;
+}
+.hijo1azul{
+	width: 100px;
+	height: 100px;
+	background-color: yellow;
+	border: 1px solid black;
+}
+.hijo2azul{
+	width: 100px;
+	height: 100px;
+	background-color: yellow;
+	border: 1px solid black;
+}
+.hijo3azul{
+	width: 100px;
+	height: 100px;
+	background-color: yellow;
+	border: 1px solid black;
+}
+
+.cafe{
+	width: 200px;
+	background-color: brown;
+	height: 350px;
+	margin: 0 auto;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+.cafehijo1{
+	width: 100px;
+	height: 100px;
+	background-color: yellow;
+	border: 1px solid black;
+}
+.cafehijo2{
+	width: 100px;
+	height: 100px;
+	background-color: yellow;
+	border: 1px solid black;
+}
+.cafehijo3{
+	width: 100px;
+	height: 100px;
+	background-color: yellow;
+	border: 1px solid black;
+}
+.footer{
+	width: 900px;
+	height: 100px;
+	background-color: red;
+	border: 1px solid black;
+	display: flex;
+	justify-content: center;
+}
+.footerhijo1{
+	width: 100px;
+	height: 100px;
+	background-color: yellow;
+	border: 1px solid black;
+}
+.footerhijo2{
+	width: 100px;
+	height: 100px;
+	background-color: yellow;
+	border: 1px solid black;
+}
